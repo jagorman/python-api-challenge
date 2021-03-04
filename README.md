@@ -1,6 +1,6 @@
 # python-api-challenge
 
-##Weather
+## Weather
 
 In this challenge, I ask a simple question.
  "Does a city's latitude and longitude play a part in its weather?" 

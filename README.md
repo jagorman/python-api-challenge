@@ -1,10 +1,3 @@
-
-
-Does the distance to the equator affect the climate of a region?
- In this repository, I 
-randomly select over 500 unique cities based on their latitude and longitude measurements, check the weather in each city using API, and compare
-
-
 # python-api-challenge
 
 ##Weather
